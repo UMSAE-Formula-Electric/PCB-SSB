@@ -1,0 +1,3 @@
+Read Me
+The Simple Sensor Board (SSB) will contain 4 wheel speed sensors, CAN data, and transmit all the data over LoRa modules. 
+This version has been taken from the VCU and trimmed down to very simple. 
